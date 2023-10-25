@@ -1,2 +1,2 @@
 # OpenNotes_Knowledge
-Learning never exhausts the mind.
+_Learning never exhausts the mind._
